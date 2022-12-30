@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "70907171600",
+    "project_id": "medical-ocr-a67da",
+    "storage_bucket": "medical-ocr-a67da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70907171600:android:b14a3dade910f5a0094b95",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70907171600-0rj778heut9vllu5hlrejgsdenrl4ov4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcivYNVQ1XGLlrMEcJI7puynz_vh5afsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70907171600-0rj778heut9vllu5hlrejgsdenrl4ov4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

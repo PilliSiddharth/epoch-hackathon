@@ -13,8 +13,9 @@ class LoginScreenTopImage extends StatelessWidget {
     return Column(
       children: [
         Text(
-          "LOGIN",
-          style: TextStyle(fontWeight: FontWeight.bold),
+          "Login",
+          style: TextStyle(
+              fontWeight: FontWeight.bold, fontSize: 31, fontFamily: "Popins"),
         ),
         SizedBox(height: defaultPadding * 2),
         Row(
@@ -22,7 +23,7 @@ class LoginScreenTopImage extends StatelessWidget {
             const Spacer(),
             Expanded(
               flex: 8,
-              child: SvgPicture.asset("assets/icons/login.svg"),
+              child: Image.asset("assets/images/pateint_account.png"),
             ),
             const Spacer(),
           ],
